@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-13 12:36+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: FULL NAME <CLEMENT.VALLA@AGROPARISTECH.FR>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -19,7 +19,8 @@ msgstr ""
 
 #: ../../examples.rst:4
 msgid "Classes based on OGGM-Edu"
-msgstr ""
+msgstr "Cours basés sur OGGM-Edu"
+
 
 #: ../../examples.rst:6
 msgid ""
@@ -29,10 +30,15 @@ msgid ""
 " OGGM-Edu, please :ref:`get in touch <title_contact>` so that we can "
 "advertise them!"
 msgstr ""
+"Cette page liste quelques utilisations connues d'OGGM-Edu en classe. Vous pouvez "
+"les utiliser \"telles quelles\", ou comme modèles pour vos propres cours. Nous serions ravis "
+"d'avoir un retour de votre part : si vous créez du contenu pédagogiques basé sur "
+"OGGM-Edu, veuillez :ref:`nous contacter <title_contact>` pour que nous puissions "
+"le partager et en faire la publicité !"
 
 #: ../../examples.rst:12
 msgid "At the university level"
-msgstr ""
+msgstr "Au niveau universitaire"
 
 #: ../../examples.rst:14
 msgid ""
@@ -41,6 +47,10 @@ msgid ""
 "`Lizz Ultee <https://ehultee.github.io/>`_. More context about her class "
 "`here <https://oggm.org/2019/12/06/OGGM-Edu-AGU/>`_."
 msgstr ""
+"`Atelier de 3 jours <https://github.com/ehultee/CdeC-glaciologia>`_ à destination "
+"d'étudiants universitaires sans expérience préalable en glaciologie (en espagnol). Réalisé par "
+"`Lizz Ultee <https://ehultee.github.io/>`_. Plus d'informations sur son cours "
+"`ici <https://oggm.org/2019/12/06/OGGM-Edu-AGU/>`_."
 
 #: ../../examples.rst:17
 msgid ""
@@ -48,10 +58,13 @@ msgid ""
 "<https://github.com/skachuck/clasp474_w2021>`_, adapted (and enhanced) "
 "OGGM-Edu notebooks. By `Samuel Kachuck <http://georei.com/>`_."
 msgstr ""
+"`University of Michigan CLaSP 474 Ice and Climate notebooks "
+"<https://github.com/skachuck/clasp474_w2021>`_, notebooks OGGM-Edu adaptés (et améliorés)."
+"Réalisé par `Samuel Kachuck <http://georei.com/>`_."
 
 #: ../../examples.rst:21
 msgid "High school activity sheets"
-msgstr ""
+msgstr "Fiches d'activité pour lycéens"
 
 #: ../../examples.rst:23
 msgid ""
@@ -60,14 +73,18 @@ msgid ""
 "have not yet been tested in class. Feel free to adapt from them, and send"
 " us your suggestions!"
 msgstr ""
+"Voici des suggestions d'activités élaborées par Josie Iino, une lycéenne "
+"qui a réalisé un court stage chez nous. Elles "
+"n'ont pas encore été testées en classe. N'hésitez pas à vous en inspirer, et envoyez "
+"nous vos suggestions !"
 
 #: ../../examples.rst:28
 msgid ":ref:`as_gallery`"
-msgstr ""
+msgstr ":ref:`as_gallery`"
 
 #: ../../examples.rst:29
 msgid ":ref:`as_simulator`"
-msgstr ""
+msgstr ":ref:`as_simulator`"
 
 #: ../../examples.rst:31
 msgid ""
@@ -76,3 +93,7 @@ msgid ""
 "<https://twitter.com/OGGM_org/status/1359450122451619842>`_ for some "
 "inspiration."
 msgstr ""
+"Nous n'avons pas encore d'exemples pour l'application Glacier Explorer. Vous pouvez nous en envoyer ! "
+"Vous pouvez également regarder `ce thread twitter "
+"<https://twitter.com/OGGM_org/status/1359450122451619842>`_ pour vous inspirer."
+
